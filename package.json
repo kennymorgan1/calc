@@ -1,0 +1,11 @@
+{
+  "name": "calc.js",
+  "version": "1.0.0",
+  "description": "A simple calculator app to understand unit testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "kenneth",
+  "license": "MIT"
+}
